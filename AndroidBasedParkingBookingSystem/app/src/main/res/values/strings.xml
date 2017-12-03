@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Based Parking Booking System</string>
+    <string name="Nesrest">Nearest Car Park</string>
+    <string name="New"><![CDATA[New Book & Pay]]></string>
+    <string name="View">View Booking</string>
+    <string name="Account">My Account</string>
+    <string name="Cancel">Cancel Booking</string>
+    <string name="feedback">FeedBack</string>
+    <string name="logout">Logout</string>
+    <string name="nearest">Nearest Car Park</string>
+    <string name="text">Nearest car park</string>
+</resources>
